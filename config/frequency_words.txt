@@ -64,10 +64,9 @@ google
 段永平
 半夏投资
 
-谷歌
-google
 gemini
 sora
+Grok
 claude
 Anthropic
 
